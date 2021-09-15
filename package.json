@@ -1,0 +1,27 @@
+{
+  "name": "apidoc-plugin-swagger",
+  "version": "0.0.0",
+  "description": "apidocjs plugin to export swagger openapi specification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadeghmohebbi/apidoc-plugin-swagger.git"
+  },
+  "keywords": [
+    "openapi",
+    "swagger",
+    "openapi"
+  ],
+  "author": "Sadegh Mohebbi <mohebbi.sadegh@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sadeghmohebbi/apidoc-plugin-swagger/issues"
+  },
+  "homepage": "https://github.com/sadeghmohebbi/apidoc-plugin-swagger#readme",
+  "dependencies": {
+    "apidoc": "^0.29.0"
+  }
+}
