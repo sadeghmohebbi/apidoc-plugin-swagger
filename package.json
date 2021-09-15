@@ -1,6 +1,6 @@
 {
   "name": "apidoc-plugin-swagger",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "apidocjs plugin to export swagger openapi specification",
   "main": "index.js",
   "scripts": {
